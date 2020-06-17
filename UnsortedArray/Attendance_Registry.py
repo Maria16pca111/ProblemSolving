@@ -1,5 +1,5 @@
 def Attendance_Registry(Entry):
-    Count=0
+    Count=1
     CountMax=0
     for x in range(0,10):
         if not (x==Entry):
